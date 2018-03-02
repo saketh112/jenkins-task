@@ -1,0 +1,10 @@
+node
+{
+stage 'build'
+echo 'building now....'
+echo 'line'
+stage 'test'
+echo 'line2'
+stage 'deploy'
+echo 'Marvel'
+}
