@@ -7,4 +7,6 @@ stage 'test'
 echo 'line2'
 stage 'deploy'
 echo 'Marvel'
+stage 'devops'
+echo 'jenkins testing'
 }
